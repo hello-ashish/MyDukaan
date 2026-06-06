@@ -1,0 +1,6 @@
+{
+  "name": "MyDukaan",
+  "description": "A professional, offline-first, local-first inventory manager powered by Google Drive backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
